@@ -1,0 +1,12 @@
+Client Request: content-123
+├── Edge Server: Checking cache for content-123
+│   ├── Cache MISS
+│   ├── Forwarding request to Origin Server
+│   │   └── Origin Server: Retrieving content-123
+│   └── Edge Server: Storing content-123 in cache
+└── Client: Received content-123
+
+Client Request: content-456
+├── Edge Server: Checking cache for content-456
+│   ├── Cache HIT
+└── Client: Received content-456
