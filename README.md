@@ -135,7 +135,7 @@ All simulation events, including cache hits, misses, and result generation, are 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENCE) file for details.
 
 ## Contributing
 
